@@ -14,7 +14,7 @@ implementations that cater to a wider, non-developer audience.
 
 ## Application Specification File
 
-See #1 for more the discusion.
+Join the discusion [here](https://github.com/tolerable-tech/fulcrum-protocols/issues/1).
 
 This will take the form already put into use by sites like Heroku. We're currently
 investigating if our implementation can function as an extension to their
@@ -22,7 +22,7 @@ established schema in order to facilitate adoption.
 
 ## Deployment Protocol
 
-See #2 for the discusion.
+Join the discusion [here](https://github.com/tolerable-tech/fulcrum-protocols/issues/2).
 
 Again we're shooting for similar functionality to that presented by the [Heroku Button](https://blog.heroku.com/heroku-button),
 simply standardized in a way that discourages vendor lock-in. 
